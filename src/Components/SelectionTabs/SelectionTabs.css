@@ -1,0 +1,13 @@
+.Selection-tab{
+    margin-left:5rem;
+    display: flex;
+    flex-flow:row wrap;
+}
+.Selection-tab nav{
+    background-color:white;
+    border-left:5px solid black;
+    border-bottom:4px inset black;
+    padding:3px;
+    margin:0 3px;
+    box-shadow: 4px -3px 10px;
+}

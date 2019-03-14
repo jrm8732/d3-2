@@ -1,0 +1,21 @@
+section{
+    margin:0 auto;
+    width:80%;
+    height:80%;
+    padding:5rem;
+}
+section .main-c{
+    background-color:blanchedalmond;
+    height: 100%;
+    width:100%;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 2px -4px 10px;
+    padding:10px;
+}
+.c-container{
+    background-color:white;
+    width:500px;
+    height:500px;
+    margin:0px auto;
+}

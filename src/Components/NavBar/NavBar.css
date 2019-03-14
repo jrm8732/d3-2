@@ -1,0 +1,22 @@
+.NavBar-main{
+    display: flex;
+    flex-flow: row no-wrap;
+    background: black;
+    color:white;
+    width:100%;
+    height:150px;
+    justify-content: flex-end;
+    align-items: center;
+}
+.NavBar-main nav{
+    margin:10px;
+    padding:10px;
+}
+.NavBar-main nav:hover{
+    text-decoration: underline blueviolet;
+    color: darkorange;
+    cursor: pointer;
+}
+.title{
+   margin-right:15em;
+}
